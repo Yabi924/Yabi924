@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yabi from Malaysia
 - 👀 I’m interested in Software Development and Game Development
 - 🌱 I’m currently learning at 42KL from 42school
-- 📫 How to reach me discode->yabiyabe
+- 📫 How to reach me discord->yabiyabe
 - 🉑 Chinese, English, Malay, Japanese, Cantonese

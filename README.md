@@ -1,4 +1,4 @@
-# Hi there, I’m Yabi 👋  
+# Hi there, I’m Yabi 👋
 **CS Student @ 42KL | Game & Web Developer**
 
 🎯 Currently working on my final project: **ft_transcendence** — almost done!  
@@ -33,6 +33,14 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/yanbin-yong/)
 - ✉️ **hin050924@gmail.com**
 - Instagram [yabi_924](https://www.instagram.com/yabi_924)
+
+---
+
+## 🉑 Languages
+- Mandarin (5/5)
+- English (3/5)
+- Malay (3/5)
+- Japanese (2/5)
 
 ---
 

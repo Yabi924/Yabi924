@@ -44,4 +44,8 @@
 
 ---
 
-> “Building ideas into code 🚀”
+## 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yabi924&layout=compact&theme=react&hide_border=true)
+
+
